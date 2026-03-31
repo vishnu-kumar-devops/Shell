@@ -12,7 +12,9 @@
 #
 ################################
 # Something need to chane. 
-# This line of code change to check the git pull Holly Dolly!
+
+# This line of code change to check the git pull
+
 
 if [ ${#@} -lt 2 ]; then
     echo "usage: $0 [your github token] [REST expression]"
